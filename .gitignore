@@ -1,0 +1,33 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# User-specific settings
+UserSettings/
+
+# Crash Reports
+MemoryCaptures/
+
+# Visual Studio / JetBrains Rider settings
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.pidb
+*.unityproj
+*.suo
+*.user
+*.userprefs
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.tmp
+*.swp
